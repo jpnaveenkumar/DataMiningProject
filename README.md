@@ -1,0 +1,11 @@
+# DataMiningProject
+
+https://www.kaggle.com/c/cs5228/
+
+Team Name : Anonymous2
+
+NAVEEN KUMAR JAKUVA PREMKUMAR - A0212252X
+
+SUDEEP KRISHNA NAGARAJAN - A0212219R
+
+SIVA ANANDH MUNEESWARAN - A0212230E
